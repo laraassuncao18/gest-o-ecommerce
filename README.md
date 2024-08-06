@@ -2,6 +2,7 @@
 Atividade feita em sala com o auxilio do professor leonardo fomos abordado a continuar a atividade.
 Nessa atividade fazemos um site que consiste em algumas paginas de cadastro de produtos, marcas e categorias.
 Este projeto faz parte do sistema de e-commerce, focado na implementação do cadastro de marcas no banco de dados. Seguindo o exemplo do cadastro de categorias, esta tarefa visa adicionar a funcionalidade de gerenciar marcas no sistema.
+
  ![gif](imgs/telaProd.gif)
  ![png](imgs/img.png)
 
@@ -12,6 +13,7 @@ Este projeto faz parte do sistema de e-commerce, focado na implementação do ca
  Basta escolher qual item voce deseja adicionar o numero ou quantidade do item e o botão OK, e finalize o pedido.
 
  ![gif](imgs/gif.gif)
+ 
  ## adicionar nova marcas:
 Para cadastrar uma nova marca, siga os passos abaixo:
 

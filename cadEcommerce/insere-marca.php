@@ -1,6 +1,8 @@
 <?php
-include('controller/conexao.php');
+include ('controller/conexao.php');
+
 $descricao = $_POST['descricao'];
+
 echo "<h3>Descricão: $descricao</h3>";
 $cad_categoria = "INSERT INTO marca(DESCRICAO) VALUES ('$descricao')";
 if(mysqli_query($mysqli, $cad_categoria)){
