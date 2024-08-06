@@ -24,12 +24,13 @@ Preencha o formulário com o nome da marca.
 Clique no botão CADASTRAR.
 
  ## 🐓Tecnologias reutilizadas:
+ 
  * vs code
  * git hub
  * google
  * xampp
- 
- 
+
+
  ## 🌻 Autores
  * [Lara](https://github.com/laraassuncao18)
  * [Leo](https://github.com/LeonardoRochaMarista)
