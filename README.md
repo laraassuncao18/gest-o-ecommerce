@@ -7,29 +7,43 @@ Este projeto faz parte do sistema de e-commerce, focado na implementação do ca
  ![png](imgs/img.png)
 
  ## 🙉Funções
- cadastrar e salvar pedido, cadastrar produtos, selecionar produtos suas marcas e categorias.
+ Cadastrar e salvar pedido  
+ Cadastrar produtos  
+ Selecionar produtos suas marcas e categorias  
+ Visualizar estoque  
  
- ## adicionar ao carrinho:
- Basta escolher qual item voce deseja adicionar o numero ou quantidade do item e o botão OK, e finalize o pedido.
+ ## Adicionar ao carrinho:
+ Basta escolher qual item voce deseja, adicionar a quantidade do item e clique em OK, seu pedido será finalizado.  
 
  ![gif](imgs/gif.gif)
 
- ## adicionar nova marcas:
-Para cadastrar uma nova marca, siga os passos abaixo:
+ ## Adicionar nova marcas:
+Para cadastrar uma nova marca, siga os passos abaixo:  
 
 ![gif](imgs/gif2.mp4)
 
-Acesse a página de cadastro de marcas.
-Preencha o formulário com o nome da marca.
-Clique no botão CADASTRAR.
+Acesse a página de cadastro de marcas.  
+Preencha o formulário com o nome da marca.  
+Clique no botão CADASTRAR.  
+`A marca sera atualizada automaticamente no banco de dados.`
 
  ## 🐓Tecnologias reutilizadas:
- 
- * vs code
- * git hub
- * google
- * xampp
+ * MySql
+ * HTML
+ * CSS
+ * PHP
 
+## scripts usados 
+include('controller/conexao.php');  
+- 
+mysqli_close($mysqli);  
+- 
+INSERT INTO  
+- 
+mysqli_query  
+- 
+mysqli_error  
+- 
 
  ## 🌻 Autores
  * [Lara](https://github.com/laraassuncao18)
