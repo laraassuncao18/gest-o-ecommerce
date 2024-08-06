@@ -5,13 +5,8 @@ Nessa atividade fazemos um site que consiste em algumas paginas de cadastro de p
  ![gif](imgs/telaProd.gif)
  ![png](imgs/img.png)
 
- ## 👲Aprendizados
-
-
-
  ## 🙉Funções
  cadastrar e salvar pedido, cadastrar produtos, selecionar produtos suas marcas e categorias.
-
  
 
  ## 🐓Tecnologias reutilizadas:
@@ -20,9 +15,6 @@ Nessa atividade fazemos um site que consiste em algumas paginas de cadastro de p
  * google
  * xampp
  
-
- ## 🐦Linguagens
-
  ## 🌻 Autores
  * [Lara](https://github.com/laraassuncao18)
  * [Leo](https://github.com/LeonardoRochaMarista)
