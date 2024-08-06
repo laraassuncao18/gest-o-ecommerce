@@ -13,14 +13,15 @@ Este projeto faz parte do sistema de e-commerce, focado na implementação do ca
  Basta escolher qual item voce deseja adicionar o numero ou quantidade do item e o botão OK, e finalize o pedido.
 
  ![gif](imgs/gif.gif)
- 
+
  ## adicionar nova marcas:
 Para cadastrar uma nova marca, siga os passos abaixo:
 
+![gif](imgs/gif2.mp4)
+
 Acesse a página de cadastro de marcas.
 Preencha o formulário com o nome da marca.
-Clique no botão "Cadastrar"
-## como adicionar uma nova categoria :
+Clique no botão CADASTRAR.
 
  ## 🐓Tecnologias reutilizadas:
  * vs code
